@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Test_Classes.Mirafit_Package_Test"/>
+      <class name="Test_Classes.Mirafit_Sortby_listbox_Test"/>
+      <class name="Test_Classes.Mirafit_ClearWishlist_Test"/>
+      <class name="Test_Classes.Mirafit_Share_Test"/>
+      <class name="Test_Classes.Mirafit_ShopbySports_Test"/>
+      <class name="Test_Classes.Mirafit_Offers_test"/>
+      <class name="Test_Classes.Mirafit_Login_Page_Validation_Test"/>
+      <class name="Test_Classes.Mirafit_Address_Test"/>
+      <class name="Test_Classes.Mirafit_CheckOut_PayPalPre_CartPageProduction_Test"/>
+      <class name="Test_Classes.Mirafit_Footer_Strength_Equipement_Test"/>
+      <class name="Test_Classes.Mirafit_showlistbox_test"/>
+      <class name="Test_Classes.Mirafit_Homepage_Links_Test"/>
+      <class name="Test_Classes.Mirafit_Remove_allfromcart_Test"/>
+      <class name="Test_Classes.Mirafit_Footer_Test"/>
+      <class name="Test_Classes.Mirafit_AddToCart_TotalPrice_test"/>
+      <class name="Test_Classes.Mirafit_Accessories_Test"/>
+      <class name="Test_Classes.Mirafit_Navigations_Test"/>
+      <class name="Test_Classes.Mirafit_Conditioning_Test"/>
+      <class name="Test_Classes.Mirafit_RemoveAllFrom_Wishlist_Test"/>
+      <class name="Test_Classes.Mirafit_ParallelBars_Homepage_Image_Test"/>
+      <class name="Test_Classes.Mirafit_weight_Bars_test"/>
+      <class name="Test_Classes.Mirafit_CheckOut_Pre_Production_Test"/>
+      <class name="Test_Classes.Mirafit_Search_Test"/>
+      <class name="Test_Classes.Mirafit_Sortby_Toggle_test"/>
+      <class name="Test_Classes.Mirafirt_Remove_AllFromCart_Test"/>
+      <class name="Test_Classes.Mirafit_CheckOut_Paypal_Pre_Production_PaymentPage_Test"/>
+      <class name="Test_Classes.Mirafit_SignUp_Test"/>
+      <class name="Test_Classes.Mirafit_Forgot_Password_Test"/>
+      <class name="Test_Classes.Mirafirt_test_ParallelBar"/>
+      <class name="Test_Classes.Mirafit_Order_Page_Pre_Production_Test"/>
+      <class name="Test_Classes.Mirafit_Categories_Strength_Equipement_Test"/>
+      <class name="Test_Classes.Mirafit_ProfileName_Test"/>
+      <class name="Test_Classes.Mirafit_GymStorage_test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
